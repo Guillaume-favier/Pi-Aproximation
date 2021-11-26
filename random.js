@@ -1,5 +1,4 @@
-﻿it = 1000000000000000
-let i = 0
+﻿let i = 0
 let ratio = 0
 while (true){
     let d = Math.sqrt((Math.random()*100-50)**2+(Math.random()*100-50)**2)
